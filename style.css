@@ -1,0 +1,54 @@
+.header{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 65px;
+    color: skyblue;
+    font-weight: bold;
+}
+body{
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: rgb(89, 85, 71);
+    font-weight: bolder;
+    color: white;
+}
+.word1{
+    color: yellow;
+    font-family:'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.line{
+    border: 0;
+    height: 1px;
+    background-color: gray;
+    margin: 30px 0;
+}
+.title1{
+    font-family:'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: skyblue;
+}
+.word2{
+    font-weight: bolder;
+}
+.word3{
+    font-family: 'Trebuchet MS', Italic, sans-serif;
+}
+.mood{
+    margin: 20px 0;
+}
+.card{
+    display: flex;
+    gap: 20px;
+}
+.mood-text{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin-left: 260px;
+}
+.image{
+    border: 10px solid white;
+}
+.image1{
+    border: 10px solid white;
+}
+
